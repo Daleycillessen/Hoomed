@@ -1,0 +1,6 @@
+pragma solidity ^0.5.16; 
+
+contract HOOMED {
+    string public name = "HOMD";
+    string public symbol = "HMD";
+    uint256 public totalSupply = 70000000; // 70 million tokens
